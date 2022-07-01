@@ -30,7 +30,8 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 _Tener instalado tu IDE de preferencia importante saber que este proyecto esta realizado en Intelilli IDEA_
 
 ```
- IDE recomendados ntellij IDEA,  Eclipse, Netbeans, Komodo
+ IDE recomendados ntellij IDEA,  
+ Pero tanbien puedes utilizar Eclipse, Netbeans, Komodo
 ```
 
 ### Como ejecutar el proyectó  🔧
