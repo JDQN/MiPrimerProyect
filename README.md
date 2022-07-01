@@ -1,4 +1,4 @@
-# MiPrimerProyect
+# Mi Primer Proyect
 
 
 _ Realice un proyecto de java en Intellij IDE en donde se reciba por consola la siguiente información:
@@ -62,6 +62,16 @@ _Tener instalado tu IDE de preferencia importante saber que este proyecto esta r
 ```
 5.Final mete se habrira una ventada donde colocaras los datos que te pide la aplicacion.
 ```
+## Resultado Visual 💻
+
+
+<img  align='right' src="https://github.com/JDQN/Agenda-Java/blob/main/Agenda1.jpeg?raw=true" width="400" />
+
+
+
+<img src="https://github.com/JDQN/Agenda-Java/blob/main/Agenda2.jpeg?raw=true" width="400" />
+
+
 
 
 ## Construido con 🛠️
