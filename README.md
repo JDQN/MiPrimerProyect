@@ -65,12 +65,14 @@ _Tener instalado tu IDE de preferencia importante saber que este proyecto esta r
 ## Resultado Visual 💻
 
 
-<img  align='right' src="https://github.com/JDQN/Agenda-Java/blob/main/Agenda1.jpeg?raw=true" width="400" />
 
+<img  align='right' src="https://github.com/JDQN/MiPrimerProyect/blob/main/img1.jpeg" width="500" />
 
+<img src="https://github.com/JDQN/MiPrimerProyect/blob/main/img2.jpeg" width="500" />
 
-<img src="https://github.com/JDQN/Agenda-Java/blob/main/Agenda2.jpeg?raw=true" width="400" />
+<img  align='right' src="https://github.com/JDQN/MiPrimerProyect/blob/main/img3.jpeg" width="500" />
 
+<img src="https://github.com/JDQN/MiPrimerProyect/blob/main/img4.jpeg" width="500" />
 
 
 
