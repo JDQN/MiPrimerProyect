@@ -1,12 +1,12 @@
-# Mi Primer Proyect
+
+
+# [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) Mi Primer Proyect en JAVA 
 
 
 _ Realice un proyecto de java en Intellij IDE en donde se reciba por consola la siguiente información:
 
 - Nombre de usuario
-
 - Celular
-
 - Edad
 
 El sistema debe imprimir el siguiente mensaje:
